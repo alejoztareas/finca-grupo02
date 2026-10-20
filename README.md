@@ -3,10 +3,10 @@
 ## Datos del grupo
 - Grupo: 02
 - Asignatura: Programación 3 (Orientada a Objetos Avanzada)
-- Integrantes y roles:
-  - Integrante 1: [Nombre y apellido] — Líder de integración
-  - Integrante 2: [Nombre y apellido] — Responsable de pruebas
-  - Integrante 3: [Nombre y apellido] — Responsable de documentación
+- Integrantes:
+  - Integrante 1: Cristhian Choez — 
+  - Integrante 2: Jhonny Arellano — 
+  - Integrante 3: Luis Quiñonez — 
 - Docente: Ing. Hamilton Francisco Villamar Barros, MSc.
 
 > Reemplacen los campos entre corchetes por datos reales. Ajusten los roles según el acuerdo del equipo.
